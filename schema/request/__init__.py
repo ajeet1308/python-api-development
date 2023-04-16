@@ -1,0 +1,1 @@
+from schema.request.post import CreatePostRequest, UpdatePostRequest
